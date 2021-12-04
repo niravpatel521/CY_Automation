@@ -1,0 +1,22 @@
+{
+  "name": "cy_automation",
+  "version": "1.0.0",
+  "description": "This is for Cypress Test automation",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niravpatel521/CY_Automation.git"
+  },
+  "author": "Nirav Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niravpatel521/CY_Automation/issues"
+  },
+  "homepage": "https://github.com/niravpatel521/CY_Automation#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
