@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/niravpatel521/CY_Automation#readme",
   "devDependencies": {
-    "@shelex/cypress-allure-plugin": "^2.23.0",
-    "cypress": "^9.1.1"
+    "@shelex/cypress-allure-plugin": "^2.23.0"
   }
 }
