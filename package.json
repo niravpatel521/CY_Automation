@@ -24,5 +24,8 @@
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.23.0",
     "cypress": "9.2.0"
+  },
+  "dependencies": {
+    "mocha-junit-reporter": "^2.0.2"
   }
 }
