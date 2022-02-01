@@ -10,6 +10,5 @@
         "mochaFile": "results/my-test-output-[hash].xml",
         "toConsole": false,
         "attachments": true
-    },
-    "video":false
+    }
 }
